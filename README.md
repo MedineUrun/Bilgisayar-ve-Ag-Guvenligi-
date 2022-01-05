@@ -4,7 +4,7 @@ Güvenlik duvarı ağ bağlantılarının kurulması ya da kurulmaması gibi dur
 
 Güvenlik duvarı dizininde yer alan firewall.sh isimli dosya linux ubuntu işletim sistemi üzerinde bash kabuğunda çalışan bir kabuk programdır.
 Bu kabuk program iptables uygulaması ile kural ya da zincir kurallar yazmamızı sağlamaktadır. Bu proje kapsamında kullanılan ana kural gelen paketlerin engellenen ip adreslerinden
-birisi ile eşleşmesi durumunda paketin yok edilmesi üzerinedir. Programda 5 ayrı seçenek bulunmaktadır. Bunlar sırası ile liste haline ip adresinin engellenmesi, kendi istediğimiz ip adresini engelleme, liste halinde ip adresinin engelinin kaldırılması, kendi seçtiğimiz ip adresinin engelini kaldırma ve yapılan tüm işlemlerin silinmesidir.
+birisi ile eşleşmesi durumunda paketin yok edilmesi üzerinedir. Programda 5 ayrı seçenek bulunmaktadır. Bunlar sırası ile liste haline ip adresinin engellenmesi, kendi istediğimiz ip adresini engelleme, liste halinde ip adresinin engelinin kaldırılması, kendi seçtiğimiz ip adresinin engelini kaldırma ve yapılan tüm işlemlerin silinmesi seçeneklerinden oluşmaktadır.
 
 Blocklist.txt dosyası içerisine engellemek istenen ip adreslerinin alt alta yazılması gereken metin belgesidir.
 Unblocklist.txt dosyası içerisine engeli kaldırılmak istenen ip adreslerinin alt alta yazılması gereken metin belgesidir.
