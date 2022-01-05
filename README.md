@@ -1,4 +1,3 @@
-# Bilgisayar-ve-Ag-Guvenligi-
 # Bilgisayar ve Ağ Güvenliği / Güvenlik Duvarı 
 
 Güvenlik duvarı ağ bağlantılarının kurulması ya da kurulmaması gibi durumları kontrol etmemize yarayan bir ağ güvenliği birimidir.
